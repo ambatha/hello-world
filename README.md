@@ -1,2 +1,5 @@
 # hello-world
-this is a short description
+
+editing read me file
+
+just removed the short description
