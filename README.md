@@ -2,4 +2,4 @@
 
 editing read me file
 
-this is a short description
+just removed the short description
